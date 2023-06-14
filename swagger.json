@@ -9,7 +9,7 @@
       "email": "pepito@gmail.com"
     }
   },
-  "host": "https://ecommerce-render-deploy-code-4yuf.onrender.com",
+  "host": "ecommerce-render-deploy-code-4yuf.onrender.com",
   "basePath": "/",
   "tags": [
     {
@@ -22,7 +22,7 @@
     }
   ],
   "schemes": [
-    "http"
+    "https"
   ],
   "paths": {
     "/product": {

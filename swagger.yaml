@@ -6,7 +6,7 @@ info:
   termsOfService: "https://pepito.com/terminos"
   contact:
     email: "pepito@gmail.com"
-host: "127.0.0.1:5000"
+host: "https://ecommerce-render-deploy-code-4yuf.onrender.com"
 basePath: "/"
 tags:
 - name: "product"
@@ -14,7 +14,7 @@ tags:
 - name: "user"
   description: "Todas las rutas para usuarios"
 schemes:
-- "http"
+- "https"
 paths:
   /product:
     get:
